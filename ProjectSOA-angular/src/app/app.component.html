@@ -1,0 +1,25 @@
+<nav class="navbar navbar-expand-sm navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" routerLink="/">Project SOA</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mynavbar">
+      <ul class="navbar-nav me-auto">
+          <li class="nav-item m-2">
+              <a class="nav-link btn btn-sm btn-outline-secondary" routerLink="/">Home</a>
+          </li>
+        <li class="nav-item m-2">
+          <a class="nav-link btn btn-sm btn-outline-secondary" routerLink="/">Products</a>
+        </li>
+        
+
+      </ul>
+      
+    </div>
+  </div>
+</nav>
+<div class="container mt-4">
+  <app-products></app-products>
+
+<router-outlet></router-outlet>

@@ -1,0 +1,8 @@
+com\example\miniprojectsoa\controllers\ProductController.class
+com\example\miniprojectsoa\models\Product.class
+com\example\miniprojectsoa\StartConfiguration.class
+com\example\miniprojectsoa\CorsConfig$1.class
+com\example\miniprojectsoa\repositories\ProductRepository.class
+com\example\miniprojectsoa\MiniProjectSoaApplication.class
+com\example\miniprojectsoa\CorsConfig.class
+com\example\miniprojectsoa\services\ProductService.class

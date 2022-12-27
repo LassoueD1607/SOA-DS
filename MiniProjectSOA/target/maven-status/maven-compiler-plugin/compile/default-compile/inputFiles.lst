@@ -1,0 +1,7 @@
+D:\Program files\Spring projects\SOAProject\MiniProjectSOA\src\main\java\com\example\miniprojectsoa\MiniProjectSoaApplication.java
+D:\Program files\Spring projects\SOAProject\MiniProjectSOA\src\main\java\com\example\miniprojectsoa\services\ProductService.java
+D:\Program files\Spring projects\SOAProject\MiniProjectSOA\src\main\java\com\example\miniprojectsoa\models\Product.java
+D:\Program files\Spring projects\SOAProject\MiniProjectSOA\src\main\java\com\example\miniprojectsoa\controllers\ProductController.java
+D:\Program files\Spring projects\SOAProject\MiniProjectSOA\src\main\java\com\example\miniprojectsoa\repositories\ProductRepository.java
+D:\Program files\Spring projects\SOAProject\MiniProjectSOA\src\main\java\com\example\miniprojectsoa\StartConfiguration.java
+D:\Program files\Spring projects\SOAProject\MiniProjectSOA\src\main\java\com\example\miniprojectsoa\CorsConfig.java
